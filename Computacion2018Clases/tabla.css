@@ -1,0 +1,20 @@
+table {
+  border: 1px solid grey;
+  padding: 7px;
+}
+button{
+  background-image: url(https://image.flaticon.com/icons/svg/54/54628.svg width:100%);
+
+}
+
+.botonimagen{
+  background-image: url(descarga.png);
+  background-repeat:no-repeat;
+  height:100px;
+  width:100px;
+  background-position:center;
+}
+img {
+  height: 15px;
+  width: 15px;
+}

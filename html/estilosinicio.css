@@ -1,0 +1,57 @@
+body{
+  background: url("ciudad3.jpg") top left/cover no-repeat;
+ }
+
+table{
+  border: 2px solid #000000;
+  border-radius: 10px;
+}
+.recuadro{
+  position: absolute;
+  top:200px;
+  left: 470px;
+}
+.cuadro{
+  position: absolute;
+  top:200px;
+  left: 500px;
+}
+.boton1 {
+  color: white;
+  padding-left: : 0px;
+  padding-right: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: large;
+   position: absolute;
+   top: 8px;
+   right: 5px;
+  border: 3px solid #3534a7;
+  background-color: #3534a7;
+}
+.boton2 {
+  padding-left: : 0px;
+  padding-right: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: large;
+   position: absolute;
+   top: 8px;
+   right: 130px;
+  border: 3px solid #3534a7;
+  background-color: #fefefe;
+}
+.linea
+{
+  width: 100%;
+  height: 7%;
+  font-size: large;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+  border: 5px;
+  background-color: #fefefe;
+  font-size: xx-large;
+  color: #3534a7;
+  font-family: Arial;
+}

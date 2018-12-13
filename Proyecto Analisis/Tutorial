@@ -1,0 +1,16 @@
+En la primer pantalla rellenar los campos pedidos.
+En la segunda pantalla se piden los coeficientes y resultados segun el orden que se haya elegido.Los coeficientes son del tipo C[fila][columna].
+La tercer pantalla nos ordenara el SEL, en caso de que deba hacerlo, por su diagonal dominante, lo mostrara y lo resolvera.
+
+
+Notas
+
+Funciona tanto para SEL que se deban ordenar como para ya ordenados.
+
+Solo funciona para SEL de hasta orden 5.
+
+Si no se especifica error en la primer pantalla, esta como predeterminado 0.005.
+
+Si no se especifica decimales en la primera pantalla, esta como predeterminado en 4.
+
+Si el SEL no se puede ordenar por no poder encontrar diagonal dominante, la tercer pantalla mostrara solo los titulos.

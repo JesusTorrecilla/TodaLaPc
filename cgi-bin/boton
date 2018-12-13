@@ -1,0 +1,14 @@
+nclude <iostream>
+
+#include <cstdlib>
+
+using namespace std;
+
+/*
+ * 
+ */
+int main(int argc, char** argv) {
+    cout << "<html><head></head><body>Hola</body></html>";
+
+    return 0;
+}

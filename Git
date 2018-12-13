@@ -1,0 +1,11 @@
+Git init         Una vez
+Git remote add origin
+
+
+
+Git add aniade archivos que quiero que sean aparte de su repositorio
+Git commit -m          Para hacer comentarios sobre lo que voy a subir
+Git push             Envia
+git add *            sube todos
+Git pull             Trae 
+git push -u origin master          Una vez

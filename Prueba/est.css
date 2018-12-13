@@ -1,0 +1,61 @@
+#vermas {
+  margin-left: 87%;
+  font-size: 16px;
+  color: red;
+}
+
+table {
+  border: #595146 1px solid;
+}
+
+#negro {
+  color: black;
+}
+
+.boton{
+  background-image: url(https://image.flaticon.com/icons/svg/54/54628.svg);
+}
+.img {
+  position: relative;
+  left: 329px;
+  bottom: 193px;
+}
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
+.tablap{
+  position: relative;
+  top: 8px;
+}
